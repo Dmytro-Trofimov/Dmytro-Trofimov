@@ -27,8 +27,6 @@ I'm Dmytro, a developer passionate about creating innovative solutions and explo
 ### Other Interests
 - 🌍 Traveling and exploring new places
 
-![Dmytro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dmytro-Trofimov&show_icons=true&theme=chartreuse-dark)
-
 ---
 
 *Thank you for visiting! Let's code the world a better place!*
